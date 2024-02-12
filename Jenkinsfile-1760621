@@ -1,2 +1,2 @@
-echo "Admin 10 Pipeline"
-sleep 15m
+echo "Wait for 15 mins"
+sleep 900
